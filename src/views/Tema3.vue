@@ -75,14 +75,14 @@
           .row.justify-content-center.p-4(titulo="")
             .col-lg-5.order-lg-1.order-2
               h4 Expresión clara
-              p Implica comunicar de manera honesta, coherente y transparente, respetando la dignidad humana y evitando actitudes paternalistas, juicios de valor o formas sutiles de discriminación. Estos elementos garantizan una atención ética, segura y basada en la confianza mutua (ONU, 2018).
+              p Se refiere al uso de un lenguaje sencillo, concreto y libre de tecnicismos, ajustado al nivel de comprensión de la persona. Esta habilidad facilita la comprensión de la información, previene interpretaciones erróneas y fortalece la autonomía en la toma de decisiones (OIM).
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img08.jpg', alt='Imagen decorativa')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-5.order-lg-1.order-2
               h4 Claridad y respeto
-              p Se refiere al uso de un lenguaje sencillo, concreto y libre de tecnicismos, ajustado al nivel de comprensión de la persona. Esta habilidad facilita la comprensión de la información, previene interpretaciones erróneas y fortalece la autonomía en la toma de decisiones (OIM).
+              p Implica comunicar de manera honesta, coherente y transparente, respetando la dignidad humana y evitando actitudes paternalistas, juicios de valor o formas sutiles de discriminación. Estos elementos garantizan una atención ética, segura y basada en la confianza mutua (ONU, 2018).
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img09.jpg', alt='Imagen decorativa')
